@@ -1,5 +1,6 @@
 # hello-world
-It's time to git gud
+
+tjoho
 
 ## under title
-No git no lyfe
+It's time to git gud. No git, no lyfe.
